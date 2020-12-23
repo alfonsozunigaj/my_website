@@ -6,7 +6,7 @@ fields:
   name: enable
   label: enable
 - type: text
-  name: title
+  name: topTitle
   label: title
 - type: text
   name: subtitle
