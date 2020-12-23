@@ -9,10 +9,7 @@ fields:
   name: topTitle
   label: title
 - type: text
-  name: subtitle
-  label: subtitle
-- type: text
-  name: description
+  name: content
   label: description
 - type: text
   name: buttonName
