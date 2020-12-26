@@ -6,9 +6,6 @@ fields:
   name: enable
   label: enable
 - type: text
-  name: title
-  label: title
-- type: text
   name: subtitle
   label: subtitle
 - type: text
@@ -32,5 +29,14 @@ fields:
 - type: file
   name: image
   label: image
+- name: title
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: title
 pages:
 - data/aboutSection.yml
