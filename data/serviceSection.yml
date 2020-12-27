@@ -7,7 +7,7 @@ title: |-
 service:
 - content: "#### UI/UX Design \nLorem ipsum dolor sit amet conset sadipscing elitr,
     sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.\n"
-  image: "/images/aws-brands-1.svg"
+  image: "/images/service/ui-ux.svg"
   title: ''
 - content: "#### Web Development \nLorem ipsum dolor sit amet conset sadipscing elitr,
     sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.\n"
