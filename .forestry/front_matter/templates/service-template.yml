@@ -11,6 +11,15 @@ fields:
 - type: text
   name: subtitle
   label: subtitle
+- name: title
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: title
 - type: field_group_list
   name: service
   label: service
@@ -24,14 +33,5 @@ fields:
   - type: file
     name: image
     label: Icon
-- name: title
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: title
 pages:
 - data/serviceSection.yml
