@@ -34,6 +34,6 @@ fields:
     name: image
     label: Icon
   config:
-    labelField: title
+    labelField: content
 pages:
 - data/serviceSection.yml
