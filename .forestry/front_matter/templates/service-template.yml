@@ -9,9 +9,6 @@ fields:
   name: topTitle
   label: topTitle
 - type: text
-  name: title
-  label: title
-- type: text
   name: subtitle
   label: subtitle
 - type: field_group_list
@@ -27,5 +24,14 @@ fields:
   - type: file
     name: image
     label: Icon
+- name: title
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: title
 pages:
 - data/serviceSection.yml
