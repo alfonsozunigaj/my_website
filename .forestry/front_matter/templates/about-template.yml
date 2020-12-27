@@ -5,6 +5,15 @@ fields:
 - type: boolean
   name: enable
   label: enable
+- name: title
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: title
 - type: text
   name: subtitle
   label: subtitle
@@ -29,14 +38,5 @@ fields:
 - type: file
   name: image
   label: image
-- name: title
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: title
 pages:
 - data/aboutSection.yml
