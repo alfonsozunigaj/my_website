@@ -3,32 +3,35 @@ enable: true
 topTitle: Expertise
 title: |-
   ## I know things
-  Not to brag, but I've acquired a skill or two that some would consider useful. Some of them are listed bellow.
+  Not to brag, but I've acquired a skill or two that many would consider useful. Some of them are listed bellow.
 service:
-- content: "#### Languages \nWhile my native tongue is spanish, I'm fluent in english and have been studying it since pre-school.\n"
+- content: |
+    #### Languages
+    While my native tongue is spanish, I am also fluent in english and been looking into learning conversational sign language.
   image: "/images/service/language.svg"
   title: ''
-- content: "#### Web Development \nLorem ipsum dolor sit amet conset sadipscing elitr,
-    sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.\n"
-  image: images/service/web.svg
+- content: |
+    #### Programming 
+    Most of my experience has involved programming using high-level languages such as Python, JavaScript, Ruby, C#, among others.
+  image: images/service/desktop.svg
   title: ''
-- content: "#### Creative Design \nLorem ipsum dolor sit amet conset sadipscing elitr,
-    sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.\n"
+- content: |
+    #### Cloud Computing
+    Since late 2019, I've been working exclusively through the cloud, learning best practices and getting to know its full potential.
+  image: images/service/network.svg
+  title: ''
+- content: |
+    #### Jamstack
+    Fan since 2019, loyal follower since more recently, Jamstack is a great way to deliver online experiences tht are awesome, versatile and lightweight.
   image: images/service/creative.svg
   title: ''
 - content: |
-    #### Branding
-    Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
-  image: images/service/branding.svg
+    #### Conversational bots
+    Started working with bots in mid 2020 and became familiar with their training logic, intent management, contexts, entities, etc.
+  image: images/service/robotic.svg
   title: ''
 - content: |
-    #### UI/UX Design
-    Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
-  image: images/service/ui-ux.svg
+    #### Teamwork
+    It's such a cliche to list "teamwork" as one of my skills, but I truly believe that N minds think better than one, and the results speak for themselves.
+  image: images/service/support.svg
   title: ''
-- content: |
-    #### Web Development
-    Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
-  image: images/service/web.svg
-  title: ''
-subtitle: ''
