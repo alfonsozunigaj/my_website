@@ -18,13 +18,9 @@ education:
     Graduated with a BS in Software Engineering and a minor in Innovation.
   time: 2015-2020
 - content: |
-    #### Master in Arts
-    Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-  time: 2008-2010
-- content: |
-    #### Master in Arts
-    Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-  time: 2008-2010
+    #### UVA-Wise
+    Attended a summer program of cybersecurity and entrepreneurship at the University of Virginia - Campus at Wise during the summer of 2018.
+  time: "2018"
 experience:
 - content: "#### Umbrella co. \nLorem ipsum dolor sit amet conset sadipscing elitr,
     sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
