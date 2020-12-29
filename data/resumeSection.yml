@@ -22,10 +22,10 @@ education:
     Starting in 2001, I received my entire school education attending the prestigious school, located in Chile's capital.
   time: 2001-2014
 experience:
-- content: "#### Umbrella co. \nLorem ipsum dolor sit amet conset sadipscing elitr,
-    sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-    sed diam\n"
-  time: 2016-Present
+- content: |
+    #### Snow Consulting
+    Head of development of server-less online applications dedicated to resource management and BI reporting in contact centers.
+  time: 2019-Present
 - content: "#### Aperture Science \nLorem ipsum dolor sit amet conset sadipscing elitr,
     sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
     sed diam\n"
