@@ -9,10 +9,6 @@ tab2Name: Experiences
 tab1Target: education
 tab2Target: experience
 education:
-- content: |
-    #### Colegio Cumbres
-    Starting in 2001, I received my entire school education attending the prestigious school, located in Chile's capital.
-  time: 2001-2014
 - content: |-
     #### Universidad de los Andes
     Graduated with a BS in Software Engineering and a minor in Innovation.
@@ -21,6 +17,10 @@ education:
     #### UVA-Wise
     Attended a summer program of cybersecurity and entrepreneurship at the University of Virginia - Campus at Wise during the summer of 2018.
   time: "2018"
+- content: |
+    #### Colegio Cumbres
+    Starting in 2001, I received my entire school education attending the prestigious school, located in Chile's capital.
+  time: 2001-2014
 experience:
 - content: "#### Umbrella co. \nLorem ipsum dolor sit amet conset sadipscing elitr,
     sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
