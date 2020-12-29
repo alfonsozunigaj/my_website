@@ -26,10 +26,10 @@ experience:
     #### Snow Consulting
     Head of development of server-less online applications dedicated to resource management and BI reporting in contact centers.
   time: 2019-Present
-- content: "#### Aperture Science \nLorem ipsum dolor sit amet conset sadipscing elitr,
-    sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-    sed diam\n"
-  time: 2010-2016
+- content: |-
+    #### Magnet SPA
+    Part-time junior developer offering support in monolithic online application based in Django framework.
+  time: "2019"
 - content: "#### ACME Inc. \nLorem ipsum dolor sit amet conset sadipscing elitr, sed
     diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
     diam\n"
